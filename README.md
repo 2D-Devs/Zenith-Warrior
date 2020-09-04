@@ -38,6 +38,15 @@ Only then can the game be completed.
 
 ---
 
+
+
+
+### Wireframes
+
+[Wireframes](Wireframes.md)
+
+---
+
 ### Story of Zenith Warrior
 Zenith Warrior is a story about a man on a mission to slay enemies and a final boss. No one knows quite yet 
 what made our fearless warrior embark on this journey. Enemies appeared in his land, and now he has no choice 
