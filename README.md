@@ -1,26 +1,38 @@
+# Zenith Warrior
+Authors: *Lami Beach, Michael Refvem, Andrew Smith*
 
-# Zenith-Warrior
-A Unity, top-down RPG with an objective of striking down multiple enemies and defeating a final boss. 
-
-### Authors
-Michael Refvem, Andrew Smith, Lami Beach
-
-
+This is a Unity game with a 2D, top-down, RPG environment. 
+The object of this game is to navigate your player through an unforgiving landscape that is smothered with rutheless enemies. 
+Once all enemies are slayne, a 'final boss' will appear that is even more lethal than all other enemies and must be defeated. 
+Only then can the game be completed. 
 
 ---
+
+### Controls
+
+---
+
+### Visuals
+
+---
+
+### Change Log
+
+---
+
 ### Deployment Link
 
 
 
 ---
-## Unity Game
+### Unity Game
 Zenith Warrior is a story about a man on a mission to slay enemies and a final boss. No one knows quite yet 
 what made our fearless warrior embark on this journey. Enemies appeared in his land, and now he has no choice 
 but to mess stuff up.
 
 ---
 
-## Tools Used
+### Tools Used
 Microsoft Visual Studio Community 2019 
 
 - C#
@@ -28,13 +40,13 @@ Microsoft Visual Studio Community 2019
 
 ---
 
-## Recent Updates
+### Recent Updates
 
 
 
 ---
 
-## Getting Started
+### Getting Started
 
 Clone this repository to your local machine.
 
@@ -43,7 +55,7 @@ Clone this repository to your local machine.
 
 ---
 
-## Usage
+### Usage
 
 ### Overview of game
 ![Menu]()
@@ -64,7 +76,7 @@ Clone this repository to your local machine.
 
 ---
 ## Data Model
-![Database Schema]()
+![Database Schema](https://i.imgur.com/EBOJIT1.png)
 
 ---
 ## Model Properties and Requirements
@@ -74,9 +86,33 @@ Clone this repository to your local machine.
 | Parameter | Type | Required |
 | --- | --- | --- |
 | ID  | int | YES |
+| UserName | str | YES |
+|CurrentLocation| Nav|YES|
 
 
+### Zenith Warrior - Enemy
 
+| Parameter | Type | Required |
+| --- | --- | --- |
+| ID  | int | YES |
+|Location| Nav|YES|
+
+
+### Zenith Warrior - Location
+
+| Parameter | Type | Required |
+| --- | --- | --- |
+| ID  | int | YES |
+|EnemyInLocation| Enemies|YES|
+
+
+### Zenith Warrior - User
+
+| Parameter | Type | Required |
+| --- | --- | --- |
+| ID  | int | YES |
+| UserName | str | YES |
+|Role| role |YES|
 
 ### Change Log
 1.6: 
@@ -94,22 +130,5 @@ Clone this repository to your local machine.
 
 ### Resources:
 
-=======
-# Zenith Warrior
-Authors: *Lami Beach, Michael Refvem, Andrew Smith*
-
-This is a Unity game with a 2D, top-down, RPG environment. The object of this game is to navigate your player through an unforgiving landscape that is smothered with rutheless enemies. Once all enemies are slayne, a 'final boss' will appear that is even more lethal than all other enemies and must be defeated. Only then can the game be completed. 
-
----
-
-### Controls
-
----
-
-## Visuals
-
----
-
-### Change Log
 
 
