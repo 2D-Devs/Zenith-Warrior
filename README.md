@@ -50,9 +50,6 @@ Microsoft Visual Studio Community 2019
 
 Clone this repository to your local machine.
 
-```
-
-
 ---
 
 ### Usage
