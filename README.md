@@ -65,12 +65,11 @@ Microsoft Visual Studio Community 2019
 ### Recent Updates
 
 
-
 ---
 
 ### Getting Started
 
-Clone this repository to your local machine.
+Clone this repository to your local machine
 
 ---
 
