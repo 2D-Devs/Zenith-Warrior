@@ -37,8 +37,6 @@ Be an IOS or Android App.
 
 The MVP will allow a user to:
 
-Create a username for the game.
-
 Start the game on one level.
 
 Kill enemies and traverse the level.
@@ -61,8 +59,6 @@ Difficulty settings - so the player can choose harder/easier modes.
 
 ## Functional Requirements
 
-A user can select a username.
-
 A user can view how to play the game.
 
 A user can start the game.
@@ -77,7 +73,7 @@ A user can be killed by enemy.
 
 ## Data Flow
 
-When the user starts up Zenith Warrior they will be greeted with the menu. The user can then put in their username and start the game or 
+When the user starts up Zenith Warrior they will be greeted with the menu. The user can start the game or 
 the user can view the tutorial on how to play the game. Once the game has started the user will need to find and kill enemies in order to get to 
 the boss. Once at the boss the user will have to kill the boss. The user can die so the objective is not to die. If they win a screen will prompt them
 notifying them they won and vice versa for if they lose.
@@ -101,7 +97,7 @@ test suites, designs and documentation.
 
 
 Development Environment: The development environment (dev) is the environment in which changes to software are developed, 
-most simply an individual developer's workstation. This differs from the ultimate target environment in various ways – the target may not be a desktop computer 
+most simply an individual developer's workstation. This differs from the ultimate target environment in various ways â€“ the target may not be a desktop computer 
 (it may be a smartphone, embedded system, headless machine in a data center, etc.), and even if otherwise similar, 
 the developer's environment will include development tools like a compiler, integrated development environment, 
 different or additional versions of libraries and support software, etc., which are not present in a user's environment.
