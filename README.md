@@ -22,10 +22,23 @@ Only then can the game be completed.
 
 ### Deployment Link
 
+---
 
+### Requirements
+
+[Requirements](Requirements.md)
 
 ---
-### Unity Game
+
+
+
+### User Stories
+
+[User Stories](Requirements.md)
+
+---
+
+### Story of Zenith Warrior
 Zenith Warrior is a story about a man on a mission to slay enemies and a final boss. No one knows quite yet 
 what made our fearless warrior embark on this journey. Enemies appeared in his land, and now he has no choice 
 but to mess stuff up.
@@ -55,16 +68,12 @@ Clone this repository to your local machine.
 ### Usage
 
 ### Overview of game
-![Menu]()
 
 ### Playing Game
-![Play]()
 
 ### Death
-![Die]()
 
 ### Success
-![Win]()
 
 
 
@@ -113,10 +122,15 @@ Clone this repository to your local machine.
 
 ### Change Log
 1.6: 
+
 1.5: 
+
 1.4:  
+
 1.3: 
+
 1.2:
+
 1.1: 
 
 ---
