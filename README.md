@@ -34,7 +34,7 @@ Only then can the game be completed.
 
 ### User Stories
 
-[User Stories](Requirements.md)
+[User Stories](UserStories.md)
 
 ---
 
