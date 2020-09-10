@@ -18,8 +18,8 @@ but to mess stuff up.
 ### How to Play
 
 Download Zip File
-- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows.zip)
-- [MacOS](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Mac.app.zip)
+- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows/Zenith-Warrior.zip)
+- [MacOS](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Mac/Zenith-Warrior.zip)
 - [Linux]()
 
 **Windows Users:**
