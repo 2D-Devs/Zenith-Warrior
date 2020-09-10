@@ -28,7 +28,7 @@ Attack | Left Ctrl | A
 ### How to Play
 
 Download Zip File
-- <a href="Downloads/Windows.zip" download>Windows</a>
+- [Windows](Downloads/Windows.zip)
 - MacOS
 
 ---
