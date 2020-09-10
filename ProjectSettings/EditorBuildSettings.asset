@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: d71d1045ae808474d957166a5dd8f0b4
   - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 9fdb2836c2758d648a997a9d759fe4db
+  - enabled: 1
     path: Assets/Scenes/Zenith-Warrior.unity
-    guid: 00845ac5553dd884c8b3bf55b0cb701d
+    guid: 8db7c28358de9f647a68751df8a656e0
   m_configObjects: {}

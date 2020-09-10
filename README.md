@@ -2,7 +2,7 @@
 Authors: *Lami Beach, Michael Refvem, Andrew Smith*
 
 This is a Unity game with a 2D, top-down, RPG environment. 
-The object of this game is to navigate your player through an unforgiving landscape that is smothered with rutheless enemies. 
+The object of this game is to navigate your player through an unforgiving landscape that is smothered with ruthless enemies. 
 Once all enemies are defeated, a 'final boss' will appear that is even more lethal than all other enemies and must be defeated. 
 Only then can the game be completed. 
 
@@ -27,9 +27,14 @@ Attack | Left Ctrl | A
 
 ### How to Play
 
-Download Zip File
-- [Windows](Downloads/Windows.zip)
-- MacOS
+1. Download Zip File
+- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows.zip)
+- [MacOS]()
+- [Linux]()
+
+2. Decompress the zip file
+3. Navigate to folder with your corresponding OS (Mac, Windows, Linux)
+4. Run `Zenith-Warrior.exe`
 
 ---
 
@@ -67,6 +72,7 @@ but to mess stuff up.
 Microsoft Visual Studio Community 2019 
 
 - C#
+- Unity
 - Unity Hub
 
 ---
@@ -84,11 +90,6 @@ Microsoft Visual Studio Community 2019
 ### Death
 
 ### Success
-
-
-
-
-
 
 ---
 ## Data Model

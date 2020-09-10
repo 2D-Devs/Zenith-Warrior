@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEditor;
+using UnityEditor.UIElements;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -10,7 +12,7 @@ public class PauseMenu : MonoBehaviour
 
     public GameObject pauseMenuUI;
 
-    private void Update()
+    void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
@@ -31,20 +33,22 @@ public class PauseMenu : MonoBehaviour
         Time.timeScale = 1f;
         GameIsPaused = false;
     }
-
-    private void Pause()
+    void Pause()
     {
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         GameIsPaused = true;
     }
 
+
+
     public void QuitGame()
     {
         Application.Quit();
 
-        /*#if UNITY_EDITOR*/
-        UnityEditor.EditorApplication.isPlaying = false;
-        /*#endif*/
+
+
     }
+
 }
+
