@@ -6,17 +6,17 @@
 
 
 ## Main Menu 
-![Main Menu](https://i.imgur.com/pQ63Grs.png)
+![Main Menu](https://i.imgur.com/Hlhjt6X.png)
 
 
 
-## Characters/Enemies/Tile Maps
-![Characters and Tile Maps](https://i.imgur.com/fJPRB0p.png)
+## Prologue
+![Characters and Tile Maps](https://i.imgur.com/3h170k0.png)
 
 
 
 
 
-## Notification to Win/Lose/Play Again
-![You Win or Lose](https://i.imgur.com/ApZ55vk.png)
+## Wireframe
+![You Win or Lose](https://i.imgur.com/FFCiplb.png)
 
