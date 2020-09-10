@@ -10,7 +10,7 @@ Only then can the game be completed.
 
 ### Controls
 
-Keys | PC | Xbox Controller
+Movements | PC | Xbox Controller
 - | - | - 
 Move left | A | L-joystick Left
 Move Right | D | L-joystick Right
@@ -29,7 +29,7 @@ Attack | Left Ctrl | A
 
 1. Download Zip File
 - [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows.zip)
-- [MacOS]()
+- [MacOS](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Mac.app.zip)
 - [Linux]()
 
 2. Decompress the zip file
