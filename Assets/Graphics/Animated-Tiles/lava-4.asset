@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: lava-4
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -2700737490551379054, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: -264491021097082129, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: -3340810386666235326, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: 4479074056396390185, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: -7050675395930020051, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: 4396603340106189728, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: -1885503634548671082, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: 940837503321451007, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: -8186838937983014498, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  - {fileID: 3933530207459021292, guid: 0e756b56d5748c440b1888ac85ecbcb6, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
