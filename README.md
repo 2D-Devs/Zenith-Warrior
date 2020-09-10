@@ -3,12 +3,21 @@ Authors: *Lami Beach, Michael Refvem, Andrew Smith*
 
 This is a Unity game with a 2D, top-down, RPG environment. 
 The object of this game is to navigate your player through an unforgiving landscape that is smothered with rutheless enemies. 
-Once all enemies are slayne, a 'final boss' will appear that is even more lethal than all other enemies and must be defeated. 
+Once all enemies are defeated, a 'final boss' will appear that is even more lethal than all other enemies and must be defeated. 
 Only then can the game be completed. 
 
 ---
 
 ### Controls
+
+Keys | PC | Xbox Controller
+- | - | - 
+Move left | A | L-joystick Left
+Move Right | D | L-joystick Right
+Move Up | W | L-joystick Up
+Move Down | S | L-joystick Down
+Sprint | Left Shift | 
+Attack | Left Ctrl | A
 
 ---
 
@@ -16,11 +25,11 @@ Only then can the game be completed.
 
 ---
 
-### Change Log
+### How to Play
 
----
-
-### Deployment Link
+Download Zip File
+- <a href="Builds/Windows.Zip" download>Windows</a>
+- MacOS
 
 ---
 
@@ -63,13 +72,6 @@ Microsoft Visual Studio Community 2019
 ---
 
 ### Recent Updates
-
-
----
-
-### Getting Started
-
-Clone this repository to your local machine
 
 ---
 
@@ -140,10 +142,6 @@ Clone this repository to your local machine
 1.2:
 
 1.1: 
-
----
-
-
 
 ---
 
