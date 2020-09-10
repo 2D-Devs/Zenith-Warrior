@@ -18,7 +18,7 @@ but to mess stuff up.
 ### How to Play
 
 Download Zip File
-- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Zenith-Warrior.zip)
+- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows_x86/Zenith-Warrior.zip)
 - [Linux]()
 
 **Windows Users:**
