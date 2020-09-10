@@ -35,14 +35,14 @@ Download Zip File
 
 ### Controls
 
-Movements | PC | Xbox Controller
-- | - | - 
-Move left | A | L-joystick Left
-Move Right | D | L-joystick Right
-Move Up | W | L-joystick Up
-Move Down | S | L-joystick Down
-Sprint | Left Shift | 
-Attack | Left Ctrl | A
+| Movements | PC | Xbox Controller |
+| - | - | - |
+| Move left | A | L-joystick Left |
+| Move Right | D | L-joystick Right |
+| Move Up | W | L-joystick Up |
+| Move Down | S | L-joystick Down |
+| Sprint | Left Shift | |
+| Attack | Left Ctrl | A |
 
 ---
 
