@@ -92,7 +92,7 @@ Microsoft Visual Studio Community 2019
 
 ---
 ## Data Model
-![Database Schema](https://i.imgur.com/EBOJIT1.png)
+![Database Schema](https://i.imgur.com/BK6IGJr.png)
 
 ---
 ## Model Properties and Requirements
