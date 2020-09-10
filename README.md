@@ -19,15 +19,12 @@ but to mess stuff up.
 
 Download Zip File
 - [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows/Zenith-Warrior.zip)
-- [MacOS](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Mac/Zenith-Warrior.zip)
 - [Linux]()
 
 **Windows Users:**
 1. Decompress the zip file
 2. Navigate to folder with your corresponding OS (Mac, Windows, Linux)
 3. Run `Zenith-Warrior.exe`
-
-**Mac Users**
 
 **Linux Users**
 
