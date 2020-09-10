@@ -132,21 +132,23 @@ Microsoft Visual Studio Community 2019
 |Role| role |YES|
 
 ### Change Log
-1.6: 
+1.6: Added intro - 9/10/2020
 
-1.5: 
+1.5: Added boss feature - 9/9/2020
 
-1.4:  
+1.4: Added attack systems - 9/8/2020
 
-1.3: 
+1.3: Added enemies - 9/8/2020
 
-1.2:
+1.2: Added 8 bit music - 9/8/2020
 
-1.1: 
+1.1: Added hero and tile mapping - 9/7/2020
 
 ---
 
 ### Resources:
 
+Brackeys 2D animation tutorials - https://www.youtube.com/watch?v=on9nwbZngyw&list=PLPV2KyIb3jR6TFcFuzI2bB7TMNIIBpKMQ
+Unity Editor / Assets - https://unity.com/
 
 
