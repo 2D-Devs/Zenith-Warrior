@@ -18,15 +18,11 @@ but to mess stuff up.
 ### How to Play
 
 Download Zip File
-- [Windows](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows_x86/Zenith-Warrior.zip)
-- [Linux]()
+- [Windows Download](https://github.com/2D-Devs/Zenith-Warrior/raw/development/Downloads/Windows_x86/Zenith-Warrior.zip)
 
-**Windows Users:**
 1. Decompress the zip file
 2. Navigate to folder with your corresponding OS (Mac, Windows, Linux)
 3. Run `Zenith-Warrior.exe`
-
-**Linux Users**
 
 ---
 
